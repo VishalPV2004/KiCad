@@ -29,7 +29,7 @@ I love designing PCBs for embedded systems and IOT applications, here I used a s
 + Zoom in and Zoom out can be done using scroller, Z variable signifies the magnitude of how much it is being zoomed in
 + X and Y variables represent the position of the crosshair on the screen
 + dx, dy, dist are used to measure the distance from one point to another
-+ 
+  
    ↳ Place the cursor at source point, press space, now navigate to the destination point, the distance will be shown there.
 
 ### Left pane : (T -> B)
